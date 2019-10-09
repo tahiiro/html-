@@ -1,0 +1,41 @@
+
+
+#galerie{
+	float: none;
+	background-color: #EEEEDD;
+	margin: 5% 30% 0 30%;
+	height: 250%;
+	width: 38%;
+}
+
+#galerie_mini li{
+	float: left;
+	padding: 15px 5px 15px 5px;
+	width: 44px;
+	list-style: none;
+}
+
+.big_pict{
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+#photo{
+	margin: 50px 0 50px 0;
+	text-align: center;
+	color: #DCCBBA;
+	font-size: 30px;
+}
+
+#photo img{
+	margin: 25px 0 10px 0;
+	}
+
+#galerie_mini ul{
+	list-style: none;
+}
+
+
